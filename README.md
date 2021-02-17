@@ -11,7 +11,6 @@ Codes used for projects at CNSS
 
 Project name | Description |Language, Tools
 ------------- |  ------------ |  ------------
-[Cryptography](https://github.com/sskrs/CEID_LIFE/tree/master/SoftEngProject19-master) ||  Python, 
-PyCharm
+[Cryptography](https://github.com/sskrs/CEID_LIFE/tree/master/SoftEngProject19-master) ||  Python, PyCharm
 
 </p>
